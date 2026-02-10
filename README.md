@@ -176,3 +176,10 @@ This is a personal portfolio template. Feel free to fork and customize!
 ## 📧 Contact
 
 For questions or support, use the contact form on the website.
+
+
+--- 
+### 💰 Support the Project | ادعم المشروع
+If you find my work helpful, consider supporting the development and educational missions of **Benameur Soft**.
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/benameursoft)
